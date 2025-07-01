@@ -2,10 +2,18 @@ Healthcare Data Analysis and Insights
 
 
 Objective
+
+
 The aim of this project is to analyze healthcare data to extract actionable insights that could help improve patient care and healthcare resource management. By working with multiple datasets, I utilized various Excel techniques to clean, transform, and analyze the data to uncover meaningful patterns.
+
+
 Project Overview
+
+
 This project focuses on analyzing healthcare data, such as patient health profiles, medical histories, and healthcare costs. The insights gained from this analysis are intended to assist healthcare stakeholders in making informed decisions regarding patient care and resource allocation.
+
 Key Features:
+
 •	Data Sources: 3 healthcare datasets
 •	Tools Used: Microsoft Excel
 •	Focus Areas: Data cleaning, transformation, and visual analysis
