@@ -15,14 +15,23 @@ This project focuses on analyzing healthcare data, such as patient health profil
 Key Features:
 
 •	Data Sources: 3 healthcare datasets
+
 •	Tools Used: Microsoft Excel
+
 •	Focus Areas: Data cleaning, transformation, and visual analysis
+
 Data Cleaning and Transformation
+
+
 •	Basic Data Cleaning: Learned and applied techniques such as using mean, median, and mode to clean the data.
+
 •	Patient Segmentation:
+
 o	BMI (Body Mass Index): Segregated patients as Underweight, Healthy, Overweight, and Obese.
 o	Blood Sugar Levels: Classified patients as Normal, Pre-Diabetic, and Diabetic.
+
 Data Analysis
+
 1.	Smoking and Cancer Risk:
 o	Insight: Using a Donut Chart, I found that non-smokers have a higher cancer history compared to smokers, indicating that smoking might not be the only factor contributing to cancer risk.
 o	Obesity & Cancer Correlation: Through further analysis, I observed that obese and overweight patients were more prone to cancer than those with a normal weight.
@@ -40,17 +49,22 @@ o	Charges by Age: With the help of a Line Chart, I observed that hospital charge
 o	As age increases, both blood sugar and BMI levels rise.
 o	Beyond 60 years old, blood sugar levels increase sharply, while BMI levels decrease.
 o	Young Patients (25-35): A surprising observation was the presence of obesity among younger patients, as indicated by peaks in the BMI trend.
+
 Conclusion
+
 This analysis highlights the importance of maintaining a healthy weight and blood sugar levels to prevent cancer and reduce healthcare costs. Additionally, Tier 2 cities should focus on improving healthcare infrastructure and awareness to minimize hospital charges.
 ________________________________________
 Key Excel Functions & Techniques Used:
+
 •	Data Cleaning: Mean, Median, Mode functions.
 •	Data Segmentation: Conditional formatting and formulas to categorize BMI and blood sugar levels.
 •	Charts:
 o	Donut Chart: Used to compare smokers vs. non-smokers and their health histories.
 o	Column Chart: Displayed hospital charges in different regions.
 o	Line Chart: Showed trends in hospital charges by age.
+
 Visualizations
+
 •	Donut Chart: Smoking and Cancer History Comparison
 •	Column Chart: Hospital Charges by Tier
 •	Line Chart: Hospital Charges and BMI Trends by Age
