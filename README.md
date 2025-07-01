@@ -68,6 +68,9 @@ Visualizations
 •	Donut Chart: Smoking and Cancer History Comparison
 •	Column Chart: Hospital Charges by Tier
 •	Line Chart: Hospital Charges and BMI Trends by Age
+
 Project Resources
+
+[Excel Sheet for Healthcare Data Analysis](https://docs.google.com/spreadsheets/d/14VGvXNQUPJQejoPnfyWTnWk55naUg5oQR_ftS3wvpRw/edit?gid=1671548078#gid=1671548078)
  
 
